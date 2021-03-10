@@ -7,8 +7,8 @@
 맞벌이부부가 늘어나면서 아이 돌봄 서비스의 수요는 계속해서 증가하고 있지만, 2019년 기준, 한국 초등학생 공적 돌봄 서비스 비율은 13.9퍼센트로 OECD 평균의 절반에도 미치지 못합니다.  절대적인 수의 부족과 더불어 기존 연구들에서 지적한 수요에 따른 공급을 실현하기 위해, 틈새공백이 많이 발생하는 지역을 추정하고 '우리동네키움센터'의 최적위치를 추천하는 방법을 모색하엿습니다.
 
 ## 분석배경 
-**우리동네 키움센터는 서울시 어느 장소에 우선적으로 설치되어야 할까? 
-**![image](https://user-images.githubusercontent.com/67999107/110648472-1771ae80-81fc-11eb-98b0-7611ae18fd87.png)
+**우리동네 키움센터는 서울시 어느 장소에 우선적으로 설치되어야 할까? **
+![image](https://user-images.githubusercontent.com/67999107/110648472-1771ae80-81fc-11eb-98b0-7611ae18fd87.png)
 
 현재 구별로 불균형하게 입지되어 있는 것의 이유를 살펴보고, 우리동네키움센터의 운영방향과 정체성에 맞는 위치를 찾으려 노력하였습니다. 
 
@@ -34,8 +34,8 @@
   ![image](https://user-images.githubusercontent.com/67999107/110649411-e80f7180-81fc-11eb-80f5-ed7002f6531b.png)
   
   (2) 돌봄인프라 지수
-  ![image](https://user-images.githubusercontent.com/67999107/110649503-ff4e5f00-81fc-11eb-8cfa-474e456be204.png)
-  ![image](https://user-images.githubusercontent.com/67999107/110649531-070e0380-81fd-11eb-8c9b-1546044c6980.png)
+  ![image](https://user-images.githubusercontent.com/67999107/110650823-3b35f400-81fe-11eb-9666-ad2de5c88b3c.png)
+
   
   (3) 공적돌봄시설 선호도 (소득분위) 
   - 소득에 따라 공적돌봄시설 및 사설 교육기관에 대한 수요가 다름. 
